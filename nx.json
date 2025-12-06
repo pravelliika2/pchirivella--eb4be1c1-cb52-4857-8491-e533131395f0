@@ -1,0 +1,6 @@
+{
+  "extends": "nx/presets/npm.json",
+  "plugins": ["@nx/eslint/plugin"],
+  "npmScope": "task-management",
+  "defaultBase": "main"
+}
